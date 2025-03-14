@@ -79,6 +79,11 @@ module.exports = class captchaServices {
     }
   }
 
+  getRandomApiKey(service) {
+    const keys = config.captchaServices[service];
+    return keys ? keys[Math.floor(Math.random() * keys.length)] : null;
+  }
+
   async antiCaptcha(Base64) {
     const apikey = this.getRandomApiKey("antiCaptcha");
     ac.setAPIKey(apikey);

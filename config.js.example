@@ -1,0 +1,11 @@
+module.exports = {
+  captchaServices: {
+    captchaUsing: "2captcha", // '2captcha' or 'antiCaptcha' or 'manual'
+    captcha2Apikey: ["your_apikey"], // array
+    antiCaptcha: ["your_apikey"], // array
+  },
+    telegramConfig: {
+    botToken: "your_bot_token",
+    chatId: "your_chat_id",
+  },
+};

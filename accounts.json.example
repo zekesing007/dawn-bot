@@ -1,0 +1,26 @@
+[
+  {
+    "email": "email",
+    "password": "pw",
+    "data": {
+      "appid": "",
+      "token": ""
+    }
+  },
+  {
+    "email": "email2",
+    "password": "pw2",
+    "data": {
+      "appid": "",
+      "token": ""
+    }
+  },
+  {
+    "email": "email3",
+    "password": "pw3",
+    "data": {
+      "appid": "",
+      "token": ""
+    }
+  }
+]

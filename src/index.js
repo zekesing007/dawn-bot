@@ -10,8 +10,8 @@ async function main() {
 ░█▀▄░█▀█░█░█░█▀█
 ░█░█░█▀█░█▄█░█░█
 ░▀▀░░▀░▀░▀░▀░▀░▀
-    By : El Puqus Airdrop
-    github.com/ahlulmukh
+    https://t.me/cryptokom2
+    https://t.me/cryptokom1
  Use it at your own risk
   `)
   );
